@@ -1,0 +1,7 @@
+{
+  "project": "Grupo RFK",
+  "date": "2026-09-24",
+  "origin_commit": "43400f20d2f796cb5d2834965334e9d8333d1621",
+  "distribution": "React/Vite estático",
+  "scope": "mesmos componentes e funcionalidades do frontend"
+}
